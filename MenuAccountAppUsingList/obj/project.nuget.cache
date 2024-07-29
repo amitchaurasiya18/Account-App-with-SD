@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4KIqgZnGkY=",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\MenuAccountAppUsingList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amit.chaurasiya\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

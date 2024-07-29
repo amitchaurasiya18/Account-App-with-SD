@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|d:\\visual studio projects (training)\\menuaccountappusinglist\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|solutionrelative:accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|d:\\visual studio projects (training)\\menuaccountappusinglist\\model\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|solutionrelative:model\\serialisedeserialise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|d:\\visual studio projects (training)\\menuaccountappusinglist\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|solutionrelative:model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|d:\\visual studio projects (training)\\menuaccountappusinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29F7157-8332-438D-A17E-84D6217BF337}|MenuAccountAppUsingList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\AccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManager.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\AccountManager.cs",
+              "RelativeToolTip": "AccountManager.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwMUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:08:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerialiseDeserialise.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\Model\\SerialiseDeserialise.cs",
+              "RelativeDocumentMoniker": "Model\\SerialiseDeserialise.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\Model\\SerialiseDeserialise.cs",
+              "RelativeToolTip": "Model\\SerialiseDeserialise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:00:40.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "Model\\Account.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\Model\\Account.cs",
+              "RelativeToolTip": "Model\\Account.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:00:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects (Training)\\MenuAccountAppUsingList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:59:49.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
